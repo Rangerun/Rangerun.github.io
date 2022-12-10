@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database energies on 知识总结</title>
+    <link>https://rangerun.github.io/database-energy/</link>
+    <description>Recent content in Database energies on 知识总结</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Dec 2022 11:11:13 +0800</lastBuildDate><atom:link href="https://rangerun.github.io/database-energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://rangerun.github.io/database-energy/my-first-post/</link>
+      <pubDate>Sat, 10 Dec 2022 11:11:13 +0800</pubDate>
+      
+      <guid>https://rangerun.github.io/database-energy/my-first-post/</guid>
+      <description>可以了可以了</description>
+    </item>
+    
+  </channel>
+</rss>
