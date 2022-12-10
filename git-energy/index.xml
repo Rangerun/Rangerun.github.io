@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git energies on 知识总结</title>
+    <link>https://rangerun.github.io/git-energy/</link>
+    <description>Recent content in Git energies on 知识总结</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Dec 2022 11:11:13 +0800</lastBuildDate><atom:link href="https://rangerun.github.io/git-energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git 使用心得</title>
+      <link>https://rangerun.github.io/git-energy/git/</link>
+      <pubDate>Sat, 10 Dec 2022 11:11:13 +0800</pubDate>
+      
+      <guid>https://rangerun.github.io/git-energy/git/</guid>
+      <description>git基础 最小配置，commit的时候需要配置 创建仓库, 工作区和暂存区，git log 新增的文件默认是不会被git管理 git reset &amp;ndash;hard 清除暂存 ; git log &amp;ndash;all &amp;ndash;graph -n4 &amp;ndash;oneline; gitk 图形化看log 探秘.git，commit,tree,blob的关系，head执行某个commit(分离头指针) 基于一个commit创建一个commit，文件夹是颗树，文件时blob(两个文件内容相同就是一个blob不看文件名) 独自试用git的使用场景 删除分支 git branch -d （ -D强制）；修改commit message(最近的一次 git commit &amp;ndash;amend) ;对以前的需要变基 git rebase -i 要拿父亲的commit （r是修改message s 合并 间隔的commit可以挪一下顺序）。 恢复暂存区 git reset HEAD 或者指定文件 恢复工作区 git checkout &amp;ndash; index.html 消除最近几次提交 git reset &amp;ndash;hard commitId; 任务加塞 git stash list apply不会丢 pop会丢弃 指定不需要git管理的文件, 在.gitignore文件指定; git仓库备份 git clone &amp;ndash;bare (不带工作区) git与github同步 先配公私钥，如果配过就直接用之前的；创建仓库后，在git中添加远程项目 git remote add github git@github.</description>
+    </item>
+    
+  </channel>
+</rss>
