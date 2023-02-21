@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go energies on 知识总结</title>
+    <link>https://rangerun.github.io/go-energy/</link>
+    <description>Recent content in Go energies on 知识总结</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Dec 2022 11:11:13 +0800</lastBuildDate><atom:link href="https://rangerun.github.io/go-energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go 语法</title>
+      <link>https://rangerun.github.io/go-energy/go/</link>
+      <pubDate>Sat, 10 Dec 2022 11:11:13 +0800</pubDate>
+      
+      <guid>https://rangerun.github.io/go-energy/go/</guid>
+      <description>go 语法</description>
+    </item>
+    
+  </channel>
+</rss>
